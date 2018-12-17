@@ -1077,7 +1077,7 @@
                       Cras sit amet nibh libero. Nulla vel metus scelerisque.
                     </div>
                   </div>
-                  <p><a href="page-services.html" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
                 </div>
               </div>
             </div>
@@ -1120,7 +1120,7 @@
                       </a>
                     </div>
                   </div>
-                  <p><a href="page-services.html" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
                 </div>
                 <div class="col-lg-6">
                   <img src="nomadtax/about_nomadtax.jpg" alt="">
@@ -1436,7 +1436,7 @@
             <div class="footer-inner">
               <div class="row">
                 <div class="col-12">
-                  <div class="footer-content">
+                  <div id="contact" class="footer-content">
                     <h2 class="display-4 text-center font-weight-bold">Contact Us</h2>
                     <form class="mt-3 form-style-2 text-center">
                       <div class="form-group has-feedback mb-10">
@@ -1463,7 +1463,7 @@
                       <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                       <li><a href="#"><i class="fa fa-medium"></i></a></li>
                     </ul>
-                    <p class="text-center text-muted">Copyright © 2018. All Rights Reserved</p>
+                    <p class="text-center text-muted">Copyright © Nomad Tax 2018. All Rights Reserved</p>
                   </div>
                 </div>
               </div>
