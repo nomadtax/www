@@ -744,7 +744,7 @@
                     <br class="d-none d-sm-inline">
                     Explore your world. Let us handle the rest.
                     </p>
-                    <a href="#" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1500">Read More <i class="pl-2 fa fa-arrow-right"></i></a>
+                    <a href="#about" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1500">Read More <i class="pl-2 fa fa-arrow-right"></i></a>
                   </div>
                 </div>
               </div>
@@ -765,7 +765,7 @@
                       <br class="d-none d-sm-inline"> tax situations encountered in this lifestyle.
                     </small>
                     </p>
-                    <a href="#" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1500">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
+                    <a href="#contact" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1500">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
                   </div>
                 </div>
               </div>
@@ -781,8 +781,8 @@
                     <br class="d-none d-sm-inline">
                     - Benjamin Franklin
                     </p>
-                    <a href="#" class="btn radius-50 btn-white btn-lg animated fadeInLeft hc-animation-delay-1500">Read More <i class="pl-2 fa fa-arrow-right"></i></a> <span class="px-2 d-sm-inline-block d-none animated fadeInLeft hc-animation-delay-1500">or</span>
-                    <a href="#" class="btn radius-50 btn-dark btn-lg animated fadeInLeft hc-animation-delay-1750 fast">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
+                    <a href="#about" class="btn radius-50 btn-white btn-lg animated fadeInLeft hc-animation-delay-1500">Read More <i class="pl-2 fa fa-arrow-right"></i></a> <span class="px-2 d-sm-inline-block d-none animated fadeInLeft hc-animation-delay-1500">or</span>
+                    <a href="#contact" class="btn radius-50 btn-dark btn-lg animated fadeInLeft hc-animation-delay-1750 fast">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
                   </div>
                 </div>
               </div>
@@ -907,7 +907,7 @@
 
       <!-- main-container start -->
       <!-- ================ -->
-      <section class="main-container padding-bottom-clear">
+      <section id="about" class="main-container padding-bottom-clear">
         <div class="container">
           <div class="row">
             <!-- main start -->
