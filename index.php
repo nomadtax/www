@@ -3,8 +3,8 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Nomad Tax | Home</title>
-    <meta name="description" content="Nomad Tax a Bootstrap-based, Responsive HTML5 Template">
+    <title>Nomad Tax | Welcome</title>
+    <meta name="description" content="Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.">
     <meta name="author" content="author">
 
     <!-- Mobile Meta -->
