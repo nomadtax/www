@@ -36,7 +36,7 @@
     <!-- Used font for body: Open Sans -->
     <!-- Used font for headings: Lato -->
     <!-- Use css/rtl_typography-scheme-3.css for RTL version -->
-    <link href="css/typography-scheme-3.css" rel="stylesheet" >
+    <link href="css/typography-default.css" rel="stylesheet" >
     <!-- Color Scheme (In order to change the color scheme, replace the blue.css with the color scheme that you prefer) -->
     <link href="css/skins/green.css" rel="stylesheet">
 
