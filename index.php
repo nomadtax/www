@@ -825,7 +825,7 @@
                     <h3>Remote</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Voluptatem ad provident non repudiandae beatae cupiditate amet reiciendis lorem ipsum dolor sit amet, consectetur.</p>
-                    <a href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -834,7 +834,7 @@
                     <h3>Experienced</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
-                    <a class="link-dark" href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a class="link-dark" href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -843,7 +843,7 @@
                     <h3>Professional</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Inventore dolores aut laboriosam cum consequuntur delectus sequi lorem ipsum dolor sit amet, consectetur.</p>
-                    <a href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
                 <div class="clearfix visible-md"></div>
@@ -853,7 +853,7 @@
                     <h3>Expertice</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Voluptatem ad provident non repudiandae beatae cupiditate amet reiciendis lorem ipsum dolor sit amet, consectetur.</p>
-                    <a class="link-dark" href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a class="link-dark" href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -862,7 +862,7 @@
                     <h3>Knowledgeable</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
-                    <a href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -871,7 +871,7 @@
                     <h3>Service Oriented</h3>
                     <div class="separator clearfix"></div>
                     <p class="text-muted">Inventore dolores aut laboriosam cum consequuntur delectus sequi lorem ipsum dolor sit amet, consectetur.</p>
-                    <a class="link-dark" href="page-services.html">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
+                    <a class="link-dark" href="#about">Read More<i class="pl-1 fa fa-angle-double-right"></i></a>
                   </div>
                 </div>
               </div>
