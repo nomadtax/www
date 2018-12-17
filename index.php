@@ -102,7 +102,7 @@
                   <ul class="list-inline hidden-md-down">
                     <li class="list-inline-item"><i class="fa fa-map-marker pr-1 pl-2"></i>Address, City, Postal Code</li>
                     <li class="list-inline-item"><i class="fa fa-phone pr-1 pl-2"></i>+00 123 123 123</li>
-                    <li class="list-inline-item"><i class="fa fa-envelope-o pr-1 pl-2"></i> example@your_domain.com</li>
+                    <li class="list-inline-item"><i class="fa fa-envelope-o pr-1 pl-2"></i> contact@nomadtax.io</li>
                   </ul>
                 </div>
                 <!-- header-top-first end -->
@@ -117,7 +117,10 @@
                   <!-- ================ -->
                   <div class="header-top-dropdown text-right">
                     <div class="btn-group">
-                      <a href="#contact" class="btn btn-default btn-sm"><i class="fa fa-pencil pr-2"></i> Sign Up</a>
+                      <a href="#contact" class="btn btn-default btn-sm"><i class="fa fa-pencil pr-2"></i> Contact</a>
+                    </div>
+                    <div class="btn-group">
+                      <a href=https://meetings.hubspot.com/pino" class="btn btn-success btn-sm"><i class="fa fa-calendar pr-2"></i> Schedule</a>
                     </div>
                   </div>
                   <!--  header top dropdowns end -->
