@@ -56,7 +56,7 @@
 
     <!-- scrollToTop -->
     <!-- ================ -->
-    <div class="scrollToTop circle"><i class="fa fa-angle-up"></i></div>
+    <div class="scrollToTop circle pull-right"><i class="fa fa-angle-up"></i></div>
 
     <!-- page wrapper start -->
     <!-- ================ -->
