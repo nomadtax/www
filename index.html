@@ -86,11 +86,11 @@
                     <div class="btn-group dropdown">
                       <button id="header-top-drop-1" type="button" class="btn dropdown-toggle dropdown-toggle--no-caret" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-share-alt"></i></button>
                       <ul class="dropdown-menu dropdown-animation" aria-labelledby="header-top-drop-1">
-                        <li class="twitter"><a href="https://twitter.com/nomadtax"><i class="fa fa-twitter"></i></a></li>
-                        <li class="linkedin"><a href="https://www.linkedin.com/company/nomad-tax-pllc/"><i class="fa fa-linkedin"></i></a></li>
-                        <li class="instagram"><a href="https://www.instagram.com/nomadtax/"><i class="fa fa-instagram"></i></a></li>
-                        <li class="facebook"><a href="https://www.facebook.com/nomadtax/"><i class="fa fa-facebook"></i></a></li>
-                        <li class="medium"><a href="https://medium.com/nomad-tax"><i class="fa fa-medium"></i></a></li>
+                        <li class="twitter"><a href="https://twitter.com/nomadtax" target="_new"><i class="fa fa-twitter"></i></a></li>
+                        <li class="linkedin"><a href="https://www.linkedin.com/company/nomad-tax-pllc/" target="_new"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="instagram"><a href="https://www.instagram.com/nomadtax/" target="_new"><i class="fa fa-instagram"></i></a></li>
+                        <li class="facebook"><a href="https://www.facebook.com/nomadtax/" target="_new"><i class="fa fa-facebook"></i></a></li>
+                        <li class="medium"><a href="https://medium.com/nomad-tax" target="_new"><i class="fa fa-medium"></i></a></li>
                       </ul>
                     </div>
                   </div>
@@ -115,7 +115,7 @@
                       <a href="#contact" class="btn btn-default btn-sm"><i class="fa fa-pencil pr-2"></i> Contact</a>
                     </div>
                     <div class="btn-group">
-                      <a href="https://calendly.com/nomadtax/quick-consult" class="btn btn-success btn-sm"><i class="fa fa-calendar pr-2"></i> Schedule</a>
+                      <a href="https://calendly.com/nomadtax/quick-consult" class="btn btn-success btn-sm" target="_new"><i class="fa fa-calendar pr-2"></i> Schedule</a>
                     </div>
                   </div>
                   <!--  header top dropdowns end -->
@@ -769,9 +769,9 @@
                 <div class="container">
                   <div class="hc-slideshow-caption hc-slideshow-caption--large p-3 text-center w-100">
                     <h1 class="text-white text-capitalize animated fadeInDown hc-animation-delay-1000">Service Offerings</h1>
-                    <p class="animated fadeInUp hc-animation-delay-1050">Personal and Small Business referrals are welcome.
+                    <p class="animated fadeInUp hc-animation-delay-1050">Personal and Small Business welcome.
                     <br class="d-none d-sm-inline">
-                    - Benjamin Franklin
+                    Earn a referral bonus!
                     </p>
                     <p class="animated fadeInUp hc-animation-delay-1250">"Only two things are certain, death and taxes"
                     <br class="d-none d-sm-inline">
