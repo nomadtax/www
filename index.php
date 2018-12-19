@@ -863,9 +863,6 @@
             <div class="container">
               <div class="row">
                 <div class="col-lg-6 text-right">
-                  <p class="space-top">
-                    Small Business
-                  </p>
                   <div class="media">
                     <div class="media-body">
                       <h4 class="media-heading">Full service</h4>
@@ -879,41 +876,12 @@
                   </div>
                   <div class="media">
                     <div class="media-body">
-                      <h4 class="media-heading">Setups</h4>
-                      <ol>
-                        <li>
-                          Launching a new business is exciting, and there is a lot to decide.  Should you go LLC or S-Corp?  Does a C-Corp make sense?  What does it mean if you go the partnership route?
-                        </li>
-                        <li>
-                          At Nomad Tax, we can consult with you about the best structure for your business based on your current needs and future goals.  We can also file the necessary paperwork to set these entities up.
-                        </li>
-                      </ol>
-                    </div>
-                    <div class="d-flex pl-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-body">
-                      <h4 class="media-heading">Budgeting & Financial planning</h4>
-                      Achieving your financials goals is better when you have a plan.  Let us help you map out the best route to get from here to where you want to be.
-                    </div>
-                    <div class="d-flex pl-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-life-ring"></i> </span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-body">
                       <h4 class="media-heading">Tax compliance</h4>
                       Tax requirements for your business can be cumbersome.  Nomad Tax can help with all of your filings, including federal and state income taxes, local filings, payroll and sales & use tax.
                     </div>
                     <div class="d-flex pl-20">
                       <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-drivers-licence-o"></i> </span>
+                        <span class="icon circle small default-bg"><i class="fa fa-drivers-license-o"></i> </span>
                       </a>
                     </div>
                   </div>
@@ -924,14 +892,42 @@
                     </div>
                     <div class="d-flex pl-20">
                       <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-vcard-o"></i> </span>
+                        <span class="icon circle small default-bg"><i class="fa fa-vcard"></i> </span>
                       </a>
                     </div>
                   </div>
-                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
                 </div>
                 <div class="col-lg-6">
-                  <img src="nomadtax/about_nomadtax.jpg" alt="">
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Setups</h4>
+                      <ol>
+                        <li>
+                          Launching a new business is exciting, and there is a lot to decide.  Should you go LLC or S-Corp?  Does a C-Corp make sense?  What does it mean if you go the partnership route?
+                        </li>
+                        <li>
+                          At Nomad Tax, we can consult with you about the best structure for your business based on your current needs and future goals.  We can also file the necessary paperwork to set these entities up.
+                        </li>
+                      </ol>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-life-ring"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Budgeting & Financial planning</h4>
+                      Achieving your financials goals is better when you have a plan.  Let us help you map out the best route to get from here to where you want to be.
+                    </div>
+                  </div>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
                 </div>
               </div>
             </div>
