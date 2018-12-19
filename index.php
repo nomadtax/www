@@ -777,41 +777,39 @@
             </div>
           </div>
         </div>
-        <div class="slick-carousel content-slider-with-large-controls">
+        <div class="slick-carousel content-slider-with-large-controls-autoplay">
           <div>
             <div class="container">
               <div class="row">
-                <div class="col-lg-6">
-                  <img src="nomadtax/about_nomadtax-3.jpg" alt="">
-                </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 text-right">
                   <p class="space-top">
-
                   </p>
-                  <p class="large text-center"></p>
                   <div class="media">
-                    <div class="d-flex pr-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-user-o"></i> </span>
-                      </a>
-                    </div>
                     <div class="media-body">
                       <h4 class="media-heading">Personal</h4>
                       Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.
                     </div>
-                  </div>
-                  <div class="media">
-                    <div class="d-flex pr-20">
+                    <div class="d-flex pl-20">
                       <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
+                        <span class="icon circle small default-bg"><i class="fa fa-user-o"></i> </span>
                       </a>
                     </div>
+                  </div>
+                  <div class="media">
                     <div class="media-body">
                       <h4 class="media-heading">Small Business</h4>
                       You want to grow your business.  We want to help.  At Nomad Tax, we don’t want to just be your accountant.  We want to be a part of your team, helping you achieve the goals you have set for your future.
                     </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-briefcase"></i> </span>
+                      </a>
+                    </div>
                   </div>
                   <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                </div>
+                <div class="col-lg-6">
+                  <img src="nomadtax/about_nomadtax-2.jpg" alt="">
                 </div>
               </div>
             </div>
@@ -820,7 +818,7 @@
             <div class="container">
               <div class="row">
                 <div class="col-lg-6">
-                  <img src="nomadtax/about_nomadtax-2.jpg" alt="">
+                  <img src="nomadtax/about_nomadtax-4.jpg" alt="">
                 </div>
                 <div class="col-lg-6">
                   <p class="space-top">
@@ -1006,9 +1004,7 @@
                 <div class="col-lg-6">
                   <h1 class="title">Nomad Tax</h1>
                   <div class="separator-2"></div>
-                  <p>
-                    You want to grow your business.  We want to help.  At Nomad Tax, we don’t want to just be your accountant.  We want to be a part of your team, helping you achieve the goals you have set for your future.
-                  </p>
+
                   <ul class="list-icons">
                     <li><i class="fa fa-check-square-o"></i> Nomad built, nomad run, nomad led</li>
                     <li><i class="fa fa-check-square-o"></i> Read more about our story here</li>
