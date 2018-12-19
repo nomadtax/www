@@ -115,7 +115,7 @@
                       <a href="#contact" class="btn btn-default btn-sm"><i class="fa fa-pencil pr-2"></i> Contact</a>
                     </div>
                     <div class="btn-group">
-                      <a href="https://calendly.com/nomadtax/quick-consult" class="btn btn-success btn-sm" target="_new"><i class="fa fa-calendar pr-2"></i> Schedule</a>
+                      <a href="https://calendly.com/nomadtax/quick-consult" class="btn btn-success btn-sm" target="_new"><i class="fa fa-calendar pr-2"></i> Free Consult </a>
                     </div>
                   </div>
                   <!--  header top dropdowns end -->
