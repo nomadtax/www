@@ -824,7 +824,7 @@
                   <p class="space-top">
                     Personal Tax
                   </p>
-                  <p class="large text-center">Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.</p>
+                  <p class="large text-center"></p>
                   <div class="media">
                     <div class="d-flex pr-20">
                       <a href="#">
@@ -903,6 +903,28 @@
                     <div class="d-flex pl-20">
                       <a href="#">
                         <span class="icon circle small default-bg"><i class="fa fa-life-ring"></i> </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="media-body">
+                      <h4 class="media-heading">Tax compliance</h4>
+                      Tax requirements for your business can be cumbersome.  Nomad Tax can help with all of your filings, including federal and state income taxes, local filings, payroll and sales & use tax.
+                    </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-drivers-licence"></i> </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="media-body">
+                      <h4 class="media-heading">Business consulting</h4>
+                      The landscape of your business is always changing, and your plan needs to be updated to accommodate your growth.  We’re here to talk you through these growth opportunities and pick the best route forward.
+                    </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-vcard-o"></i> </span>
                       </a>
                     </div>
                   </div>
