@@ -1250,7 +1250,7 @@
             </div>
             <div class="image-box hc-shadow text-center">
               <div class="overlay-container">
-                <img src="nomadtax/about_nomadtax-2" alt="">
+                <img src="nomadtax/about_nomadtax-2.jpg" alt="">
                 <div class="overlay-top">
                   <div class="text">
                     <h3><a href="portfolio-item.html">Project Title</a></h3>
