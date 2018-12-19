@@ -772,12 +772,50 @@
             <div class="col-lg-8">
               <h2 class="text-center mt-4">Why <strong>Choose</strong> Us</h2>
               <div class="separator"></div>
-              <p class="large text-center">Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.</p>
+              <p class="large text-center"></p>
               <br>
             </div>
           </div>
         </div>
         <div class="slick-carousel content-slider-with-large-controls">
+          <div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6">
+                  <img src="nomadtax/about_nomadtax-3.jpg" alt="">
+                </div>
+                <div class="col-lg-6">
+                  <p class="space-top">
+
+                  </p>
+                  <p class="large text-center"></p>
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-user-o"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Personal</h4>
+                      Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Small Business</h4>
+                      You want to grow your business.  We want to help.  At Nomad Tax, we don’t want to just be your accountant.  We want to be a part of your team, helping you achieve the goals you have set for your future.
+                    </div>
+                  </div>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
           <div>
             <div class="container">
               <div class="row">
@@ -788,6 +826,7 @@
                   <p class="space-top">
                     Personal Tax
                   </p>
+                  <p class="large text-center">Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.</p>
                   <div class="media">
                     <div class="d-flex pr-20">
                       <a href="#">
