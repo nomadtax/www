@@ -668,47 +668,6 @@
                       </li>
                     </ul>
                   </div>
-                  <div class="btn-group">
-                    <button type="button" class="btn dropdown-toggle dropdown-toggle--no-caret" id="header-drop-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-shopping-basket"></i><span class="cart-count default-bg">8</span></button>
-                    <ul class="dropdown-menu dropdown-menu-right cart dropdown-animation" aria-labelledby="header-drop-2">
-                      <li>
-                        <table class="table table-hover">
-                          <thead>
-                            <tr>
-                              <th class="quantity">QTY</th>
-                              <th class="product">Product</th>
-                              <th class="amount">Subtotal</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td class="quantity">2 x</td>
-                              <td class="product"><a href="shop-product.html">Android 4.4 Smartphone</a><span class="small">4.7" Dual Core 1GB</span></td>
-                              <td class="amount">$199.00</td>
-                            </tr>
-                            <tr>
-                              <td class="quantity">3 x</td>
-                              <td class="product"><a href="shop-product.html">Android 4.2 Tablet</a><span class="small">7.3" Quad Core 2GB</span></td>
-                              <td class="amount">$299.00</td>
-                            </tr>
-                            <tr>
-                              <td class="quantity">3 x</td>
-                              <td class="product"><a href="shop-product.html">Desktop PC</a><span class="small">Quad Core 3.2MHz, 8GB RAM, 1TB Hard Disk</span></td>
-                              <td class="amount">$1499.00</td>
-                            </tr>
-                            <tr>
-                              <td class="total-quantity" colspan="2">Total 8 Items</td>
-                              <td class="total-amount">$1997.00</td>
-                            </tr>
-                          </tbody>
-                        </table>
-                        <div class="panel-body text-right">
-                          <a href="shop-cart.html" class="btn btn-group btn-gray btn-sm">View Cart</a>
-                          <a href="shop-checkout.html" class="btn btn-group btn-gray btn-sm">Checkout</a>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
                 <!-- header dropdown buttons end -->
               </div>
@@ -769,13 +728,11 @@
                 <div class="container">
                   <div class="hc-slideshow-caption hc-slideshow-caption--large p-3 text-center w-100">
                     <h1 class="text-white text-capitalize animated fadeInDown hc-animation-delay-1000">Service Offerings</h1>
-                    <p class="animated fadeInUp hc-animation-delay-1050">Personal and Small Business welcome.
-                    <br class="d-none d-sm-inline">
-                    Earn a referral bonus!
-                    </p>
                     <p class="animated fadeInUp hc-animation-delay-1250">"Only two things are certain, death and taxes"
                     <br class="d-none d-sm-inline">
                     - Benjamin Franklin
+                    </p>
+                    <p class="animated fadeInUp hc-animation-delay-1050">Personal and Small Business welcome.
                     </p>
                     <a href="#about" class="btn radius-50 btn-white btn-lg animated fadeInLeft hc-animation-delay-1500">Read More <i class="pl-2 fa fa-arrow-right"></i></a> <span class="px-2 d-sm-inline-block d-none animated fadeInLeft hc-animation-delay-1500">or</span>
                     <a href="#contact" class="btn radius-50 btn-dark btn-lg animated fadeInLeft hc-animation-delay-1750 fast">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
@@ -983,8 +940,8 @@
               <div class="call-to-action text-center">
                 <div class="row">
                   <div class="col-lg-8">
-                    <h1 class="title">Don't Miss Out</h1>
-                    <p>Lets chat today about how I can help save you time and money so that you can do what you do best.</p>
+                    <h1 class="title">Did you know we offer referral bonuses?</h1>
+                    <p>Send your friends to us for a chat and you could earn some extra travel cash!</p>
                   </div>
                   <div class="col-lg-4">
                     <br>
@@ -1026,12 +983,6 @@
                   <p>
                     As a digital nomad myself, I recognize the needs and concerns of the nomad community, and I wanted to build a platform around that mindset to serve those in it in a way that they can understand and relate with.
                   </p>
-                  <ul class="list-icons">
-                    <li>Our Services</li>
-                    <li><i class="fa fa-check-square-o"></i> Personal Tax</li>
-                    <li><i class="fa fa-check-square-o"></i> Small Business</li>
-                    <li><i class="fa fa-check-square-o"></i> Referrals</li>
-                  </ul>
                 </div>
                 <div class="col-lg-6">
                   <div class="overlay-container overlay-visible">
