@@ -97,7 +97,7 @@
                   <ul class="list-inline hidden-md-down">
                     <li class="list-inline-item"><i class="fa fa-map-marker pr-1 pl-2"></i>Remote: Capetown, South Africa</li>
                     <li class="list-inline-item"><i class="fa fa-phone pr-1 pl-2"></i></li>
-                    <li class="list-inline-item"><i class="fa fa-envelope-o pr-1 pl-2"></i> info@nomadtax.io</li>
+                    <li class="list-inline-item"><i class="fa fa-envelope-o pr-1 pl-2"></i> <a href="mailto:info@nomadtax.io">info@nomadtax.io</a></li>
                   </ul>
                 </div>
                 <!-- header-top-first end -->
@@ -800,9 +800,133 @@
 
       <div id="page-start"></div>
 
+
       <!-- section start -->
       <!-- ================ -->
-      <section class="bg-light">
+      <section class="pv-20">
+      </section>
+      <!-- section end -->
+
+      <!-- section -->
+      <!-- ================ -->
+      <section class="pv-30">
+        <div class="container">
+          <div class="row justify-content-md-center">
+            <div class="col-lg-8">
+              <h2 class="text-center mt-4">Why <strong>Choose</strong> Us</h2>
+              <div class="separator"></div>
+              <p class="large text-center">Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.</p>
+              <br>
+            </div>
+          </div>
+        </div>
+        <div class="slick-carousel content-slider-with-large-controls">
+          <div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6">
+                  <img src="nomadtax/about_nomadtax-2.jpg" alt="">
+                </div>
+                <div class="col-lg-6">
+                  <p class="space-top">
+                    Personal Tax
+                  </p>
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-eye"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Tax compliance</h4>
+                      <ol>
+                        <li>
+                          There’s no way around it, we all need to file our taxes. But what forms do you need? What deductions can you take?  What exclusions and credits do you qualify for?
+                        </li>
+                        <li>
+                          We offer Federal and State income tax preparation with all associated schedules and an FEIE assessment.
+                        </li>
+                      </ol>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="d-flex pr-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
+                      </a>
+                    </div>
+                    <div class="media-body">
+                      <h4 class="media-heading">Tax consulting</h4>
+                      Want to know the implications of taking certain tax positions?  Getting a new job?  Going from employee to freelance?  We’re here to help.  Reach out above to set an appointment to chat with our pros about what your choices mean for your taxes.
+                    </div>
+                  </div>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6 text-right">
+                  <p class="space-top">
+                    Small Business
+                  </p>
+                  <div class="media">
+                    <div class="media-body">
+                      <h4 class="media-heading">Full service</h4>
+                      You’re invested in your business. Let us invest our time and knowledge to help your grow and achieve your goals.  At Nomad Tax, we want to be part of your team.  Let us take the guesswork out of business and tax planning with our full service solution, including accounting, tax, budgeting, and planning.
+                    </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-eye"></i> </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="media-body">
+                      <h4 class="media-heading">Setups</h4>
+                      <ol>
+                        <li>
+                          Launching a new business is exciting, and there is a lot to decide.  Should you go LLC or S-Corp?  Does a C-Corp make sense?  What does it mean if you go the partnership route?
+                        </li>
+                        <li>
+                          At Nomad Tax, we can consult with you about the best structure for your business based on your current needs and future goals.  We can also file the necessary paperwork to set these entities up.
+                        </li>
+                      </ol>
+                    </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="media">
+                    <div class="media-body">
+                      <h4 class="media-heading">Budgeting & Financial planning</h4>
+                      Achieving your financials goals is better when you have a plan.  Let us help you map out the best route to get from here to where you want to be.
+                    </div>
+                    <div class="d-flex pl-20">
+                      <a href="#">
+                        <span class="icon circle small default-bg"><i class="fa fa-life-ring"></i> </span>
+                      </a>
+                    </div>
+                  </div>
+                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
+                </div>
+                <div class="col-lg-6">
+                  <img src="nomadtax/about_nomadtax.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- section end -->
+
+      <!-- section start -->
+      <!-- ================ -->
+      <section class="light-gray-bg">
 
         <div class="container">
           <div class="row">
@@ -925,6 +1049,7 @@
             <!-- main end -->
           </div>
         </div>
+
         <!-- section start -->
         <!-- ================ -->
         <div class="light-gray-bg pv-40 section mt-20 d-none">
@@ -998,129 +1123,6 @@
       </section>
       <!-- main-container end -->
 
-
-      <!-- section start -->
-      <!-- ================ -->
-      <section class="pv-20">
-      </section>
-      <!-- section end -->
-
-      <!-- section -->
-      <!-- ================ -->
-      <section class="pv-30 light-gray-bg">
-        <div class="container">
-          <div class="row justify-content-md-center">
-            <div class="col-lg-8">
-              <h2 class="text-center mt-4">Why <strong>Choose</strong> Us</h2>
-              <div class="separator"></div>
-              <p class="large text-center">Nomad Tax offers both tax compliance and tax consulting services for digital nomads. We’re well versed in the tax matters pertaining to these returns, including the Foreign Earned Income Exclusion.</p>
-              <br>
-            </div>
-          </div>
-        </div>
-        <div class="slick-carousel content-slider-with-large-controls">
-          <div>
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6">
-                  <img src="nomadtax/about_nomadtax-2.jpg" alt="">
-                </div>
-                <div class="col-lg-6">
-                  <p class="space-top">
-                    Personal Tax
-                  </p>
-                  <div class="media">
-                    <div class="d-flex pr-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-eye"></i> </span>
-                      </a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="media-heading">Tax compliance</h4>
-                      <ol>
-                        <li>
-                          There’s no way around it, we all need to file our taxes. But what forms do you need? What deductions can you take?  What exclusions and credits do you qualify for?
-                        </li>
-                        <li>
-                          We offer Federal and State income tax preparation with all associated schedules and an FEIE assessment.
-                        </li>
-                      </ol>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="d-flex pr-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
-                      </a>
-                    </div>
-                    <div class="media-body">
-                      <h4 class="media-heading">Tax consulting</h4>
-                      Want to know the implications of taking certain tax positions?  Getting a new job?  Going from employee to freelance?  We’re here to help.  Reach out above to set an appointment to chat with our pros about what your choices mean for your taxes.
-                    </div>
-                  </div>
-                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6 text-right">
-                  <p class="space-top">
-                    Small Business
-                  </p>
-                  <div class="media">
-                    <div class="media-body">
-                      <h4 class="media-heading">Full service</h4>
-                      You’re invested in your business. Let us invest our time and knowledge to help your grow and achieve your goals.  At Nomad Tax, we want to be part of your team.  Let us take the guesswork out of business and tax planning with our full service solution, including accounting, tax, budgeting, and planning.
-                    </div>
-                    <div class="d-flex pl-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-eye"></i> </span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-body">
-                      <h4 class="media-heading">Setups</h4>
-                      <ol>
-                        <li>
-                          Launching a new business is exciting, and there is a lot to decide.  Should you go LLC or S-Corp?  Does a C-Corp make sense?  What does it mean if you go the partnership route?
-                        </li>
-                        <li>
-                          At Nomad Tax, we can consult with you about the best structure for your business based on your current needs and future goals.  We can also file the necessary paperwork to set these entities up.
-                        </li>
-                      </ol>
-                    </div>
-                    <div class="d-flex pl-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-trophy"></i> </span>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="media-body">
-                      <h4 class="media-heading">Budgeting & Financial planning</h4>
-                      Achieving your financials goals is better when you have a plan.  Let us help you map out the best route to get from here to where you want to be.
-                    </div>
-                    <div class="d-flex pl-20">
-                      <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-life-ring"></i> </span>
-                      </a>
-                    </div>
-                  </div>
-                  <p><a href="#contact" class="btn btn-default-transparent btn-animated">Learn More <i class="fa fa-arrow-right pl-10"></i></a></p>
-                </div>
-                <div class="col-lg-6">
-                  <img src="nomadtax/about_nomadtax.jpg" alt="">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- section end -->
 
       <!-- section start -->
       <!-- ================ -->
@@ -1430,19 +1432,24 @@
                     <h2 class="display-4 text-center font-weight-bold">Contact Us</h2>
                     <form action="https://nomadtax.us7.list-manage.com/subscribe/post?u=1dc80cd4d54d6b9199b6cc4ec&amp;id=59f64e822b" method="post" class="mt-3 form-style-2 text-center">
                       <div class="form-group has-feedback mb-10">
-                        <label class="sr-only" for="name2">Name</label>
+                        <label class="sr-only" for="name">Name</label>
                         <input type="text" class="form-control" name="name" placeholder="Name" required>
                         <i class="fa fa-user form-control-feedback"></i>
                       </div>
                       <div class="form-group has-feedback mb-10">
-                        <label class="sr-only" for="email2">Email address</label>
+                        <label class="sr-only" for="email">Email address</label>
                         <input type="email" class="form-control" name="email" placeholder="Enter email" required>
                         <i class="fa fa-envelope form-control-feedback"></i>
                       </div>
                       <div class="form-group has-feedback mb-10">
-                        <label class="sr-only" for="message2">Message</label>
+                        <label class="sr-only" for="message">Message</label>
                         <textarea class="form-control" rows="4" name="message" placeholder="Message" required></textarea>
                         <i class="fa fa-pencil form-control-feedback"></i>
+                      </div>
+                      <div class="form-group has-feedback mb-10">
+                        <label class="sr-only" for="referral">How did you hear about us?</label>
+                        <input type="text" class="form-control" name="referral" placeholder="How did you hear about us?" required>
+                        <i class="fa fa-bullhorn form-control-feedback"></i>
                       </div>
 
                       <input type="submit" value="Send Message" class="mt-3 submit-button radius-50 btn btn-outline-light btn-lg">

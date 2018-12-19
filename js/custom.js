@@ -156,6 +156,9 @@
       if (/^(message)$/i.test(key)) {
         payload.MESSAGE = value;
       }
+      if (/^(referral)$/i.test(key)) {
+        payload.REFERRAL = value;
+      }
     });
 
     // if (fullName && !payload.FNAME) {
