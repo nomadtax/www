@@ -913,7 +913,7 @@
                     </div>
                     <div class="d-flex pl-20">
                       <a href="#">
-                        <span class="icon circle small default-bg"><i class="fa fa-drivers-licence"></i> </span>
+                        <span class="icon circle small default-bg"><i class="fa fa-drivers-licence-o"></i> </span>
                       </a>
                     </div>
                   </div>
