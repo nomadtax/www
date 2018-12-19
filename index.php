@@ -862,6 +862,11 @@
           <div>
             <div class="container">
               <div class="row">
+                <div class="col-lg-12">
+                  <p class="space-top text-center">
+                    Small Business
+                  </p>
+                </div>
                 <div class="col-lg-6 text-right">
                   <div class="media">
                     <div class="media-body">
