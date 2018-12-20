@@ -56,7 +56,7 @@
 
     <!-- scrollToTop -->
     <!-- ================ -->
-    <div class="scrollToTop circle pull-right"><i class="fa fa-angle-up"></i></div>
+    <div class="scrollToTop circle"><i class="fa fa-angle-up"></i></div>
 
     <!-- page wrapper start -->
     <!-- ================ -->
@@ -1441,6 +1441,11 @@
                     <h2 class="display-4 text-center font-weight-bold">Contact Us</h2>
                     <form action="https://nomadtax.us7.list-manage.com/subscribe/post?u=1dc80cd4d54d6b9199b6cc4ec&amp;id=59f64e822b" method="post" class="mt-3 form-style-2 text-center">
                       <div class="form-group has-feedback mb-10">
+                        <label class="sr-only" for="referral">How did you hear about us?</label>
+                        <input type="text" class="form-control" name="referral" placeholder="How did you hear about us?" required>
+                        <i class="fa fa-bullhorn form-control-feedback"></i>
+                      </div>
+                      <div class="form-group has-feedback mb-10">
                         <label class="sr-only" for="name">Name</label>
                         <input type="text" class="form-control" name="name" placeholder="Name" required>
                         <i class="fa fa-user form-control-feedback"></i>
@@ -1454,11 +1459,6 @@
                         <label class="sr-only" for="message">Message</label>
                         <textarea class="form-control" rows="4" name="message" placeholder="Message" required></textarea>
                         <i class="fa fa-pencil form-control-feedback"></i>
-                      </div>
-                      <div class="form-group has-feedback mb-10">
-                        <label class="sr-only" for="referral">How did you hear about us?</label>
-                        <input type="text" class="form-control" name="referral" placeholder="How did you hear about us?" required>
-                        <i class="fa fa-bullhorn form-control-feedback"></i>
                       </div>
 
                       <input type="submit" value="Send Message" class="mt-3 submit-button radius-50 btn btn-outline-light btn-lg">
