@@ -1,13 +1,13 @@
 nt={}
 nt.options = {
   'location': 'Remote: Capetown, South Africa',
-  'slogan': 'Explore your world.',
+  // 'slogan': 'Explore your world.',
   'founder-image': 'nomadtax/pino-3.jpg'
 }
 
 selectors = {
   '#location':    nt.options['location'],
-  '.site-slogan': nt.options['slogan'],
+  // '.site-slogan': nt.options['slogan'],
   'img.founder':  { 'src': nt.options['founder-image']},
   'a.founder':    { 'href': nt.options['founder-image']}
 }

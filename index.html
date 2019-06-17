@@ -532,7 +532,7 @@
 
       <!-- section start -->
       <!-- ================ -->
-      <section class="light-gray-bg" id="about">
+      <section class="light-gray-bg">
 
         <div class="container">
           <div class="row">
@@ -606,7 +606,7 @@
 
       <!-- main-container start -->
       <!-- ================ -->
-      <section id="about" class="main-container padding-bottom-clear" name="about">
+      <section id="about" class="main-container padding-bottom-clear" id="about">
         <div class="container">
           <div class="row">
             <!-- main start -->
