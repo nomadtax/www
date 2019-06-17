@@ -285,7 +285,7 @@
                       <br class="d-none d-sm-inline">
                       Explore your world. Let us handle the rest.
                     </p>
-                    <a href="#about" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1800">Read More <i class="pl-2 fa fa-arrow-right"></i></a>
+                    <a href="#about" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1750">Read More <i class="pl-2 fa fa-arrow-right"></i></a>
                   </div>
                 </div>
               </div>
@@ -303,7 +303,7 @@
                       <br class="d-none d-sm-inline">
                       Founded, built and run by digital nomads, we have a unique understanding of the complex business and personal tax situations encountered in this lifestyle.
                     </p>
-                    <a href="#contact" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1800">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
+                    <a href="#contact" class="btn radius-50 btn-dark btn-xl animated fadeInLeft hc-animation-delay-1750">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
                   </div>
                 </div>
               </div>
@@ -321,7 +321,7 @@
                       <br class="d-none d-sm-inline">
                       - Benjamin Franklin
                     </p>
-                    <p class="animated fadeInUp hc-animation-delay-1850">Personal and Small Business welcome.
+                    <p class="animated fadeInUp hc-animation-delay-1750">Personal and Small Business welcome.
                     </p>
                     <a href="#about" class="btn radius-50 btn-white btn-lg animated fadeInLeft hc-animation-delay-2000">Read More <i class="pl-2 fa fa-arrow-right"></i></a> <span class="px-2 d-sm-inline-block d-none animated fadeInLeft hc-animation-delay-2000">or</span>
                     <a href="#contact" class="btn radius-50 btn-dark btn-lg animated fadeInLeft hc-animation-delay-2000 fast">Contact Us <i class="pl-2 fa fa-envelope-o"></i></a>
