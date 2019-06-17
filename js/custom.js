@@ -167,8 +167,6 @@
     //   payload.LNAME = payload.LNAME || fullName[1];
     // }
 
-    debugger;
-
     // Use the (undocumented) MailChimp jsonp api
     var url = data.action.replace('/post?', '/post-json?') + '&c=?';
     // Add special param to prevent bot signups
