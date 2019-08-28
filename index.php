@@ -95,7 +95,7 @@
                     </div>
                   </div>
                   <ul class="list-inline hidden-md-down">
-                    <li class="list-inline-item" id="location"><i class="fa fa-map-marker pr-1 pl-2"></i> Tbilisi, Georgia </li>
+                    <li class="list-inline-item" id="location"><i class="fa fa-map-marker pr-1 pl-2"></i></li>
                     <li class="list-inline-item d-none" id="phone_number"><i class="fa fa-phone pr-1 pl-2"></i></li>
                     <li class="list-inline-item"><i class="fa fa-envelope-o pr-1 pl-2"></i> <a href="mailto:info@nomadtax.io">info@nomadtax.io</a></li>
                   </ul>
