@@ -1,6 +1,6 @@
 nt={}
 nt.options = {
-  'location': 'Remote: Capetown, South Africa',
+  'location': 'Remote: Tbilisi, Georgia',
   // 'slogan': 'Explore your world.',
   'founder-image': 'nomadtax/pino-3.jpg'
 }
